@@ -1,6 +1,6 @@
 /**
  * Datos que usaremos para calcular montos minimos, maximos y linea optima de cretido.
- * Decidi usar objecto con claves y valores para que me fuera mas facil optener los valores
+ * Decidi usar un objecto con claves y valores para que me fuera mas facil obtener los valores
  */
 const MONTOS_MINIMOS_M = {
   A: {
